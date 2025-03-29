@@ -8,7 +8,8 @@ This is a simple yet advanced GUI calculator built using Python's Tkinter librar
 - Tkinter (Pre-installed with Python)
 
 ## Screenshots
-(Insert screenshot here)
+[(Insert screenshot here)
+](https://github.com/buffydev-1/Advanced-Calculator/blob/main/image.png)
 
 ## Widgets Used
 - **Label** - Displays the title of the calculator.
